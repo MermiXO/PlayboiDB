@@ -1,0 +1,29 @@
+{
+  "magazines": [
+    {
+      "id": "australia-2023-06",
+      "name": "Playboy Australia 2023-06",
+      "cbz_url": "https://archive.org/download/australia-2023-06/Australia%202023-06.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-06",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-09",
+      "name": "Playboy Australia 2023-09",
+      "cbz_url": "https://archive.org/download/australia-2023-09/Australia%202023-09.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-09",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-11-23T23:30:24.473525Z",
+    "total_magazines": 2,
+    "format_version": "1.0"
+  }
+}
