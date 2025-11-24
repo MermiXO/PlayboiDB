@@ -11,6 +11,16 @@
       "added_date": "2025-11-23"
     },
     {
+      "id": "australia-2023-08",
+      "name": "Playboy Australia 2023-08",
+      "cbz_url": "https://archive.org/download/australia-2023-08/Australia%202023-08.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-08",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
       "id": "australia-2023-09",
       "name": "Playboy Australia 2023-09",
       "cbz_url": "https://archive.org/download/australia-2023-09/Australia%202023-09.cbz",
@@ -19,11 +29,101 @@
       "last_sent": null,
       "sent_count": 0,
       "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-01",
+      "name": "Playboy Australia 2023-01",
+      "cbz_url": "https://archive.org/download/australia-2023-01/Australia%202023-01.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-01",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-02",
+      "name": "Playboy Australia 2023-02",
+      "cbz_url": "https://archive.org/download/australia-2023-02/Australia%202023-02.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-02",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-03",
+      "name": "Playboy Australia 2023-03",
+      "cbz_url": "https://archive.org/download/australia-2023-03/Australia%202023-03.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-03",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-04",
+      "name": "Playboy Australia 2023-04",
+      "cbz_url": "https://archive.org/download/australia-2023-04/Australia%202023-04.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-04",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-05",
+      "name": "Playboy Australia 2023-05",
+      "cbz_url": "https://archive.org/download/australia-2023-05/Australia%202023-05.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-05",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-07",
+      "name": "Playboy Australia 2023-07",
+      "cbz_url": "https://archive.org/download/australia-2023-07/Australia%202023-07.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-07",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-10",
+      "name": "Playboy Australia 2023-10",
+      "cbz_url": "https://archive.org/download/australia-2023-10/Australia%202023-10.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-10",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-11",
+      "name": "Playboy Australia 2023-11",
+      "cbz_url": "https://archive.org/download/australia-2023-11/Australia%202023-11.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-11",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
+    },
+    {
+      "id": "australia-2023-12",
+      "name": "Playboy Australia 2023-12",
+      "cbz_url": "https://archive.org/download/australia-2023-12/Australia%202023-12.cbz",
+      "archive_url": "https://archive.org/details/australia-2023-12",
+      "pages": 100,
+      "last_sent": null,
+      "sent_count": 0,
+      "added_date": "2025-11-23"
     }
   ],
   "metadata": {
-    "last_updated": "2025-11-23T23:37:00Z",
-    "total_magazines": 2,
+    "last_updated": "2025-11-23T23:46:00Z",
+    "total_magazines": 12,
     "format_version": "1.0"
   }
 }
